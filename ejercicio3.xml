@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <minecraftItems lang="es">
+        <item id="1" crafteable="false" enchantable="false" destruible="false">
+            <name>Bloque de tierra</name>
+            <type>bloque</type>
+            <rarity>común</rarity>
+            <damage>10</damage>
+            <description>Un bloque de tierra para plantar cultivos</description>
+        </item>
+        <item id="2" crafteable="true" enchantable="true" destruible="true">
+            <name>Espada de diamante</name>
+            <type>arma</type>
+            <rarity>legendario</rarity>
+            <damage>350</damage>
+            <description>Una espada hecha de diamantes para matar mobs hostiles</description>
+            <materials>
+                <material id="5">diamante</material>
+                <material id="5">diamante</material>
+                <material id="50">palo de madera</material>
+            </materials>
+            <enchantments>
+                <enchantment id="101">Irrompibilidad</enchantment>
+                <enchantment id="102">Reparacion</enchantment>
+                <enchantment id="108">Golpeo</enchantment>
+            </enchantments>
+            <desgaste>500</desgaste>
+        </item>
+        <item id="3" crafteable="false" enchantable="true" destruible="false">
+            <name>Diamante</name>
+            <type>mineral</type>
+            <rarity>legendario</rarity>
+            <damage>10</damage>
+            <description>El mineral mas preciado de Minecraft</description>
+            <enchantments>
+                <enchantment id="112">Durabilidad</enchantment>
+            </enchantments>
+        </item>
+        <item id="4" crafteable="true" enchantable="true" destruible="true">
+            <name>Pico de hierro</name>
+            <type>herramienta</type>
+            <rarity>raro</rarity>
+            <damage>30</damage>
+            <description>Pico de hierro que puede picar diamantes</description>
+            <materials>
+                <material id="25">hierro</material>
+                <material id="25">hierro</material>
+                <material id="25">hierro</material>
+                <material id="50">palo de madera</material>
+                <material id="50">palo de madera</material>
+            </materials>
+            <enchantments>
+                <enchantment id="121">Eficiencia</enchantment>
+                <enchantment id="101">Irrompibilidad</enchantment>
+                <enchantment id="102">Reparacion</enchantment>
+            </enchantments>
+            <desgaste>250</desgaste>
+        </item>
+        <item id="5" crafteable="false" enchantable="false" destruible="false">
+            <name>Ender pearl</name>
+            <type>consumible</type>
+            <rarity>épico</rarity>
+            <damage>10</damage>
+            <description>Una perla que cuando la tiras te teletransporta a donde aterrice</description>
+        </item>
+        <item id="6" crafteable="false" enchantable="true" destruible="true">
+            <name>Palo de madera</name>
+            <type>arma</type>
+            <rarity>común</rarity>
+            <damage>10</damage>
+            <description>Un palo para todo tipo de crafteos</description>
+            <enchantments>
+                <enchantment id="100">Empuje</enchantment>
+                <enchantment id="101">Irrompibilidad</enchantment>
+                <enchantment id="120">Golpeo</enchantment>
+            </enchantments>
+            <desgaste>50</desgaste>
+        </item>
+    </minecraftItems>
