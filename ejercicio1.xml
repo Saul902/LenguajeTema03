@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <minecraftItems lang="es">
+        <item>
+            <id>1</id>
+            <name>Bloque de tierra</name>
+            <type>bloque</type>
+            <rarity>común</rarity>
+            <damage>10</damage>
+            <description>Un bloque de tierra para plantar cultivos</description>
+        </item>
+        <item>
+            <id>2</id>
+            <name>Espada de diamante</name>
+            <type>arma</type>
+            <rarity>legendario</rarity>
+            <damage>350</damage>
+            <description>Una espada hecha de diamantes para matar mobs hostiles</description>
+        </item>
+        <item>
+            <id>3</id>
+            <name>Diamante</name>
+            <type>mineral</type>
+            <rarity>legendario</rarity>
+            <damage>10</damage>
+            <description>El mineral mas preciado de Minecraft</description>
+        </item>
+        <item>
+            <id>4</id>
+            <name>Pico de hierro</name>
+            <type>herramienta</type>
+            <rarity>raro</rarity>
+            <damage>30</damage>
+            <description>Pico de hierro que puede picar diamantes</description>
+        </item>
+        <item>
+            <id>5</id>
+            <name>Ender pearl</name>
+            <type>consumible</type>
+            <rarity>épico</rarity>
+            <damage>10</damage>
+            <description>Una perla que cuando la tiras te teletransporta a donde aterrice</description>
+        </item>
+    </minecraftItems>

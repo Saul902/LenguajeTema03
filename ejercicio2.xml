@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <minecraftItems lang="es">
+        <item>
+            <id>1</id>
+            <name>Bloque de tierra</name>
+            <type>bloque</type>
+            <rarity>común</rarity>
+            <damage>10</damage>
+            <description>Un bloque de tierra para plantar cultivos</description>
+            <crafteable>false</crafteable>
+            <enchantable>false</enchantable>
+        </item>
+        <item>
+            <id>2</id>
+            <name>Espada de diamante</name>
+            <type>arma</type>
+            <rarity>legendario</rarity>
+            <damage>350</damage>
+            <description>Una espada hecha de diamantes para matar mobs hostiles</description>
+            <crafteable>true</crafteable>
+            <materials>
+                <material>diamante</material>
+                <material>diamante</material>
+                <material>palo de madera</material>
+            </materials>
+            <enchantable>true</enchantable>
+            <enchantments>
+                <enchantment>Irrompibilidad</enchantment>
+                <enchantment>Reparacion</enchantment>
+                <enchantment>Golpeo</enchantment>
+            </enchantments>
+        </item>
+        <item>
+            <id>3</id>
+            <name>Diamante</name>
+            <type>mineral</type>
+            <rarity>legendario</rarity>
+            <damage>10</damage>
+            <description>El mineral mas preciado de Minecraft</description>
+            <crafteable>false</crafteable>
+            <enchantable>true</enchantable>
+            <enchantments>
+                <enchantment>Durabilidad</enchantment>
+            </enchantments>
+        </item>
+        <item>
+            <id>4</id>
+            <name>Pico de hierro</name>
+            <type>herramienta</type>
+            <rarity>raro</rarity>
+            <damage>30</damage>
+            <description>Pico de hierro que puede picar diamantes</description>
+            <crafteable>true</crafteable>
+            <materials>
+                <material>hierro</material>
+                <material>hierro</material>
+                <material>hierro</material>
+                <material>palo de madera</material>
+                <material>palo de madera</material>
+            </materials>
+            <enchantable>true</enchantable>
+            <enchantments>
+                <enchantment>Eficiencia</enchantment>
+                <enchantment>Irrompibilidad</enchantment>
+                <enchantment>Reparacion</enchantment>
+            </enchantments>
+        </item>
+        <item>
+            <id>5</id>
+            <name>Ender pearl</name>
+            <type>consumible</type>
+            <rarity>épico</rarity>
+            <damage>10</damage>
+            <description>Una perla que cuando la tiras te teletransporta a donde aterrice</description>
+            <crafteable>false</crafteable>
+            <enchantable>false</enchantable>
+        </item>
+        <item>
+            <id>6</id>
+            <name>Palo de madera</name>
+            <type>arma</type>
+            <rarity>común</rarity>
+            <damage>10</damage>
+            <description>Un palo para todo tipo de crafteos</description>
+            <crafteable>false</crafteable>
+            <enchantable>true</enchantable>
+            <enchantments>
+                <enchantment>Empuje</enchantment>
+                <enchantment>Irrompibilidad</enchantment>
+                <enchantment>Golpeo</enchantment>
+            </enchantments>
+        </item>
+    </minecraftItems>
