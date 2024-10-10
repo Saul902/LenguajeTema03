@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <asir lang="es">
+        <trimestre_1>
+            <alumno nia="10683458">
+                <nombre>Saul</nombre>
+                <apellidos>Ruiz Manzano</apellidos>
+            </alumno>
+            <modulos>
+                <modulo>
+                    <nombre>Implantación de Sistemas Operativos</nombre>
+                    <nota>7</nota>
+                </modulo>
+                <modulo>
+                    <nombre>Planificación y Administración de Redes</nombre>
+                    <nota>6</nota>
+                </modulo>
+                <modulo>
+                    <nombre>Bases de Datos</nombre>
+                    <nota>10</nota>
+                </modulo>
+                <modulo>
+                    <nombre>Proyecto Intermodular</nombre>
+                    <nota>8</nota>
+                </modulo>
+                <modulo>
+                    <nombre>Fundamentos de Hardware</nombre>
+                    <nota>9</nota>
+                </modulo>
+                <modulo>
+                    <nombre>Lenguaje de Marcas</nombre>
+                    <nota>8</nota>
+                </modulo>
+                <modulo>
+                    <nombre>Ingles Profesional</nombre>
+                    <nota>10</nota>
+                </modulo>
+                <modulo>
+                    <nombre>Itinerario Personal</nombre>
+                    <nota>7</nota>
+                </modulo>
+            </modulos>
+        </trimestre_1>
+    </asir>
